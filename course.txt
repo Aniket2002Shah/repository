@@ -1,0 +1,6 @@
+React
+JavaScript
+HTML
+CSS
+Nodejs
+MySQL
